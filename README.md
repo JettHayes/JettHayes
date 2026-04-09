@@ -1,4 +1,4 @@
-# Hi there 👋 我是海际见越凌
+# 你好，我是海际见越凌 👋
 
 ### Java 后端 / 全栈开发方向求职者
 
@@ -16,18 +16,42 @@
 ## 项目概览
 
 ### 业务系统 / 全栈项目
-- **BookManage**：Spring Boot 3 + Vue 3 的智慧图书管理系统，包含借阅管理、推荐算法与 AI 阅读顾问
-- **NewCamp**：RuoYi-Vue + 微信小程序的露营服务平台，覆盖营地展示、预约、评价、消息与后台运营
-- **Easytoborrow**：设备借用与资产管理系统，支持设备管理、借用申请、借用记录与用户登记
-- **SuggestionBox**：电子意见箱系统，实现意见发布、评论互动、后台管理与小程序联动
-- **BookManage-old**：图书管理系统旧版本，用于体现从 Vue 2 / Spring Boot 2 到新版架构的演进
+
+- **BookManage**  
+  智慧图书管理系统，包含借阅管理、评分收藏、RFM 用户分层、多路召回推荐与 AI 阅读顾问。  
+  **技术栈：** Spring Boot 3、Vue 3、MySQL、Redis、Spring Security、MyBatis-Plus
+
+- **NewCamp**  
+  露营服务平台，覆盖营地展示、地图找营地、营位预约、收藏评价、消息沟通与后台运营管理。  
+  **技术栈：** Spring Boot、RuoYi-Vue、MyBatis、MySQL、微信小程序、WebSocket
+
+- **Easytoborrow**  
+  设备借用与资产管理系统，支持设备管理、借用申请、借用记录与用户登记。  
+  **技术栈：** Spring Boot、RuoYi-Vue、MyBatis、MySQL、微信小程序
+
+- **SuggestionBox**  
+  电子意见箱系统，实现意见发布、评论互动、后台管理与小程序联动。  
+  **技术栈：** Spring Boot、RuoYi-Vue、MyBatis、MySQL、微信小程序
+
+- **BookManage-old**  
+  图书管理系统旧版本，用于体现从传统后台到新版架构的演进。  
+  **技术栈：** Spring Boot 2、Vue 2、MyBatis、MySQL、Redis
 
 ### 数据分析 / 可视化
-- **SalesDashboard**：Python + Pandas + ECharts 销售数据分析与可视化大屏项目
+
+- **SalesDashboard**  
+  销售数据分析与可视化大屏项目。  
+  **技术栈：** Python、Pandas、Jupyter、ECharts
 
 ### AI / 工程化探索
-- **AgentSkills_For_IDE**：面向 AI 编程助手的模块化技能库
-- **OpenClaw-Workspace**：个人自动化与 AI 助手工作区，涉及任务编排、检索查证与工作流组织
+
+- **AI 工程化工具探索（AgentSkills_For_IDE）**  
+  面向 AI 编程助手的模块化技能库，聚焦 Prompt 模块化、规则复用与工程实践沉淀。  
+  **技术栈：** Prompt 工程、模块化技能设计、规则复用、工作流规范
+
+- **自动化工作流实践（OpenClaw-Workspace）**  
+  个人自动化与 AI 助手工作区，涉及任务编排、检索查证与工作流组织。  
+  **技术栈：** 自动化流程编排、信息检索、工作流设计、Agent 工作区组织
 
 ## 技术栈
 
