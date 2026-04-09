@@ -1,32 +1,101 @@
-# Hi 👋, I'm 海际见越凌
+# Hi there 👋 我是海际见越凌
 
-### Java & Vue 全栈开发工程师 | 专注企业级系统构建与 AI 业务落地
+### Java 后端 / 全栈开发方向应届求职者
 
-- 🔭 I'm currently working on **基于 Spring Boot 3 + Vue 3 的企业级系统 (如融合 AI 与推荐算法的图书管理平台、O2O微服务架构)**
-
-- 🌱 I'm currently learning **LLM (大模型) 在实际业务流中的工程化落地与架构设计**
-
-- 👯 I'm looking to collaborate on **AI 大模型（LLM）驱动的业务系统开发与微服务架构演进**
-
-- 🤝 I'm looking for help with **探索海量数据下的 ETL 性能调优，与 AI Agent 在传统工作流中的深度落地实践。**
-
-- 💬 Ask me about **Java 后端架构设计、Vue 前端开发、BI 数据大屏 (ETL) **
-
-- 📫 How to reach me **466841049@qq.com**
-
-- ⚡ Fun fact **注重代码规范与业务价值的平衡，致力于用技术解决实际问题。**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/JettHayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JettHayes" height="30" width="40" /></a>
+  <a href="https://github.com/JettHayes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JettHayes" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+- 🎯 求职方向：**Java 后端开发 / Java 全栈开发**
+- 🧩 项目方向：**业务系统开发、微信小程序、数据可视化、AI 应用与工程化探索**
+- 🌱 当前关注：**Spring Boot 工程实践、系统设计、推荐系统、LLM 在业务场景中的落地**
+- 📫 联系方式：**466841049@qq.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JettHayes&show_icons=true&locale=en&layout=compact" alt="JettHayes" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JettHayes&show_icons=true&locale=en" alt="JettHayes" /></p>
+## 关于我
 
-### 🚀 Selected Projects
-- **[BookManage](你的链接)**: 融合 DeepSeek 大模型与多路召回推荐算法的企业级全栈系统 (Spring Boot 3 + Vue 3)。
+我以 **Java 后端开发** 为主，同时具备前后端联调、数据库设计、接口开发、基础可视化分析与 AI 应用集成的项目实践经验。  
+在 GitHub 项目中，我主要围绕 **管理系统、双端业务系统、微信小程序、数据分析看板、AI 工具化探索** 展开，重视业务建模、工程规范和实际落地能力。
+
+---
+
+## 项目矩阵
+
+### 一、业务系统与全栈项目
+
+- **📚 BookManage**  
+  基于 **Spring Boot 3 + Vue 3 + MySQL + Redis** 的智慧图书管理系统，包含图书借阅、评分收藏、RFM 用户分层、多路召回推荐与 AI 阅读顾问等能力。
+
+- **🏕️ NewCamp**  
+  基于 **RuoYi-Vue + Spring Boot + 微信小程序** 的露营服务平台，覆盖营地展示、地图找营地、营位预约、收藏评价、消息沟通与后台运营管理。
+
+- **🔧 Easytoborrow**  
+  面向设备借用与资产管理场景的系统，采用 **Spring Boot + RuoYi-Vue + 微信小程序** 实现，支持设备管理、借用申请、借用记录与用户登记。
+
+- **💬 SuggestionBox**  
+  基于 **Spring Boot + RuoYi-Vue + 微信小程序** 的电子意见箱系统，支持意见发布、评论互动、后台管理与小程序端联动。
+
+- **🔄 BookManage-old**  
+  `BookManage` 的旧版本，基于 **Spring Boot 2 + Vue 2 + MyBatis + Redis**。  
+  用于体现我在同一业务主题下，从传统后台到新版架构的技术演进过程。
+
+### 二、数据分析与可视化项目
+
+- **📊 SalesDashboard**  
+  基于 **Python + Pandas + Jupyter + ECharts** 的销售数据可视化分析系统，完成从模拟数据生成、清洗分析到大屏展示的完整链路。
+
+### 三、AI 与工程化探索项目
+
+- **🧠 AgentSkills_For_IDE**  
+  面向 AI 编程助手的模块化技能库项目，聚焦 Prompt 模块化、规则复用与工程实践沉淀。
+
+- **⚙️ OpenClaw-Workspace**  
+  个人自动化与 AI 助手工作区，涉及任务编排、检索查证、自动化工作流与长期记忆组织等方向。
+
+---
+
+## 技术栈
+
+### 后端与服务端
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven" />
+</p>
+
+**相关实践：** Spring Boot / Spring Security / JWT / MyBatis / MyBatis-Plus / RuoYi-Vue / WebSocket
+
+### 前端与客户端
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,sass" />
+</p>
+
+**相关实践：** Vue 2 / Vue 3 / Element UI / Element Plus / Axios / Pinia / Vue Router / 微信小程序 / Vant Weapp
+
+### 数据分析与可视化
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+</p>
+
+**相关实践：** Pandas / Jupyter Notebook / ECharts / 商业数据大屏
+
+### AI 与工程化
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,bash" />
+</p>
+
+**相关实践：** LLM 应用集成 / Prompt 工程 / 检索增强 / 自动化工作流 / 工程规范沉淀
+
+---
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JettHayes&show_icons=true&locale=zh-CN&layout=compact" alt="JettHayes" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JettHayes&show_icons=true&locale=zh-CN" alt="JettHayes" />
+</p>
