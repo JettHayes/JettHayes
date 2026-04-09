@@ -49,9 +49,9 @@
 ## GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JettHayes&show_icons=true&locale=zh-CN&layout=compact" alt="JettHayes" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JettHayes&show_icons=true&locale=cn&layout=compact" alt="JettHayes" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JettHayes&show_icons=true&locale=zh-CN" alt="JettHayes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JettHayes&show_icons=true&locale=cn" alt="JettHayes" />
 </p>
