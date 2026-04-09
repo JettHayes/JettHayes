@@ -3,9 +3,15 @@
 ### Java 后端 / 全栈开发方向求职者
 
 - 🎯 求职方向：**Java 后端开发 / Java 全栈开发**
-- 🧩 项目关键词：**业务系统、微信小程序、数据可视化、AI 应用集成**
+- 🧩 项目方向：**业务系统、微信小程序、数据可视化、AI 应用集成**
 - 🌱 当前关注：**Spring Boot 工程实践、系统设计、推荐系统、LLM 业务落地**
+- 🌐 个人作品集：**[Coming Soon](https://your-portfolio-link-here.com)**
 - 📫 联系方式：**466841049@qq.com**
+
+## 关于我
+
+以 **Java 后端开发** 为主，具备前后端联调、数据库设计、接口开发与业务系统落地实践经验。  
+项目方向覆盖 **管理系统、微信小程序、数据可视化、AI 工程探索**。
 
 ## 项目概览
 
@@ -44,14 +50,4 @@
 ### 工程与协作
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,docker" />
-</p>
-
-## GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JettHayes&show_icons=true&locale=cn&layout=compact" alt="JettHayes" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JettHayes&show_icons=true&locale=cn" alt="JettHayes" />
 </p>
